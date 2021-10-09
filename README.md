@@ -124,3 +124,6 @@
 
 
 <a href="https://github.com/Darken-Pasiya/Plugin/blob/main/README.md"><img title="YouTube" src="https://img.shields.io/badge/Whatsapp-Mod Collection Plugin-blue?style=for-the-badge&logo="></a>
+
+
+<a href="https://raw.githubusercontent.com/Darken-Pasiya/any-plug/main/Whatsapp%20mod"><img title="YouTube" src="https://img.shields.io/badge/Click-blue?style=for-the-badge&logo="></a>
