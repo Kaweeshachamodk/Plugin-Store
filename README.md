@@ -83,4 +83,4 @@
 <a href="https://github.com/Darken-Pasiya/Plugin/blob/main/README.md"><img title="YouTube" src="https://img.shields.io/badge/Termux-Tool Plugin-blueviolet?style=for-the-badge&logo="></a>
 
 
-<a href="https://github.com/Darken-Pasiya/Plugin/blob/main/README.md"><img title="YouTube" src="https://img.shields.io/badge/Bomb Master-yellowgreen?style=for-the-badge&logo="></a>
+<a href="https://github.com/Darken-Pasiya/Plugin/blob/main/README.md"><img title="YouTube" src="https://img.shields.io/badge/Bomb Master-brightgreen?style=for-the-badge&logo="></a>
