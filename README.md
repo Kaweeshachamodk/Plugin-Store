@@ -107,7 +107,7 @@
 <br>
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/Termux-tool/main/Red%20hawk"><img title="YouTube" src="https://img.shields.io/badge/Red Hawk-brightgreen?style=for-the-badge&logo="></a>
 <br>
-<a href="https://raw.githubusercontent.com/Darken-Pasiya/Termux-tool/main/snap%20tool"><img title="YouTube" src="https://img.shields.io/badge/Snap Tool-brightgreen?style=for-the-badge&logo="></a>
+<a href="https://raw.githubusercontent.com/Darken-Pasiya/Termux-tool/main/Snap%20tool"><img title="YouTube" src="https://img.shields.io/badge/Snap Tool-brightgreen?style=for-the-badge&logo="></a>
 <br>
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/Termux-tool/main/Tool%20store"><img title="YouTube" src="https://img.shields.io/badge/Tool Store-brightgreen?style=for-the-badge&logo="></a>
 <br>
