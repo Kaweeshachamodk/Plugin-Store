@@ -86,3 +86,35 @@
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/Termux-tool/main/bomb%20master"><img title="YouTube" src="https://img.shields.io/badge/Bomb Master-brightgreen?style=for-the-badge&logo="></a>
 <br>
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/Termux-tool/main/200%20tools"><img title="YouTube" src="https://img.shields.io/badge/200 Tools-brightgreen?style=for-the-badge&logo="></a>
+<br>
+<a href="https://raw.githubusercontent.com/Darken-Pasiya/Termux-tool/main/Adv%20phishing"><img title="YouTube" src="https://img.shields.io/badge/Adv Phishing-brightgreen?style=for-the-badge&logo="></a>
+<br>
+<a href="https://raw.githubusercontent.com/Darken-Pasiya/Termux-tool/main/Advance%20banner"><img title="YouTube" src="https://img.shields.io/badge/Advance Banner-brightgreen?style=for-the-badge&logo="></a>
+<br>
+<a href="https://raw.githubusercontent.com/Darken-Pasiya/Termux-tool/main/Email%20bomber"><img title="YouTube" src="https://img.shields.io/badge/Email Bomber-brightgreen?style=for-the-badge&logo="></a>
+<br>
+<a href="https://raw.githubusercontent.com/Darken-Pasiya/Termux-tool/main/FF%20phisher"><img title="YouTube" src="https://img.shields.io/badge/FF Phisher-brightgreen?style=for-the-badge&logo="></a>
+<br>
+<a href="https://raw.githubusercontent.com/Darken-Pasiya/Termux-tool/main/Hide%20in%20pic"><img title="YouTube" src="https://img.shields.io/badge/Hide In Picture-brightgreen?style=for-the-badge&logo="></a>
+<br>
+<a href="https://raw.githubusercontent.com/Darken-Pasiya/Termux-tool/main/Ip%20seeker"><img title="YouTube" src="https://img.shields.io/badge/Ip Seeker-brightgreen?style=for-the-badge&logo="></a>
+<br>
+<a href="https://raw.githubusercontent.com/Darken-Pasiya/Termux-tool/main/Mr%20phish"><img title="YouTube" src="https://img.shields.io/badge/Mr Phish-brightgreen?style=for-the-badge&logo="></a>
+<br>
+<a href="https://raw.githubusercontent.com/Darken-Pasiya/Termux-tool/main/Nex%20phisher"><img title="YouTube" src="https://img.shields.io/badge/Nex Phisher-brightgreen?style=for-the-badge&logo="></a>
+<br>
+<a href="https://raw.githubusercontent.com/Darken-Pasiya/Termux-tool/main/Packages"><img title="YouTube" src="https://img.shields.io/badge/Packages-brightgreen?style=for-the-badge&logo="></a>
+<br>
+<a href="https://raw.githubusercontent.com/Darken-Pasiya/Termux-tool/main/Red%20hawk"><img title="YouTube" src="https://img.shields.io/badge/Red Hawk-brightgreen?style=for-the-badge&logo="></a>
+<br>
+<a href="https://raw.githubusercontent.com/Darken-Pasiya/Termux-tool/main/snap%20tool"><img title="YouTube" src="https://img.shields.io/badge/Snap Tool-brightgreen?style=for-the-badge&logo="></a>
+<br>
+<a href="https://raw.githubusercontent.com/Darken-Pasiya/Termux-tool/main/Tool%20store"><img title="YouTube" src="https://img.shields.io/badge/Tool Store-brightgreen?style=for-the-badge&logo="></a>
+<br>
+<a href="https://raw.githubusercontent.com/Darken-Pasiya/Termux-tool/main/Tool%20x"><img title="YouTube" src="https://img.shields.io/badge/Tool X-brightgreen?style=for-the-badge&logo="></a>
+<br>
+<a href="https://raw.githubusercontent.com/Darken-Pasiya/Termux-tool/main/Wish%20phish"><img title="YouTube" src="https://img.shields.io/badge/Wish Phish-brightgreen?style=for-the-badge&logo="></a>
+<br>
+<a href="https://raw.githubusercontent.com/Darken-Pasiya/Termux-tool/main/Zip%20bomber"><img title="YouTube" src="https://img.shields.io/badge/Zip Bomber-brightgreen?style=for-the-badge&logo="></a>
+<br>
+<a href="https://raw.githubusercontent.com/Darken-Pasiya/Termux-tool/main/Zphisher"><img title="YouTube" src="https://img.shields.io/badge/Zphisher-brightgreen?style=for-the-badge&logo="></a>
