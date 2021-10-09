@@ -60,23 +60,13 @@
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/plug/main/1"><img title="YouTube" src="https://img.shields.io/badge/ 24 -green?style=for-the-badge&logo="></a>
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/plug/main/1"><img title="YouTube" src="https://img.shields.io/badge/ 25 -green?style=for-the-badge&logo="></a>
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/plug/main/1"><img title="YouTube" src="https://img.shields.io/badge/ 26 -green?style=for-the-badge&logo="></a>
-<br>
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/plug/main/1"><img title="YouTube" src="https://img.shields.io/badge/ 27 -green?style=for-the-badge&logo="></a>
-<br>
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/plug/main/1"><img title="YouTube" src="https://img.shields.io/badge/ 28 -green?style=for-the-badge&logo="></a>
-<br>
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/plug/main/1"><img title="YouTube" src="https://img.shields.io/badge/ 29 -green?style=for-the-badge&logo="></a>
-
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/plug/main/1"><img title="YouTube" src="https://img.shields.io/badge/ 30 -green?style=for-the-badge&logo="></a>
-
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/plug/main/1"><img title="YouTube" src="https://img.shields.io/badge/ 31 -green?style=for-the-badge&logo="></a>
-
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/plug/main/1"><img title="YouTube" src="https://img.shields.io/badge/ 32 -green?style=for-the-badge&logo="></a>
-
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/plug/main/1"><img title="YouTube" src="https://img.shields.io/badge/ 33 -green?style=for-the-badge&logo="></a>
-
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/plug/main/1"><img title="YouTube" src="https://img.shields.io/badge/ 34 -green?style=for-the-badge&logo="></a>
-
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/plug/main/1"><img title="YouTube" src="https://img.shields.io/badge/ 35 -green?style=for-the-badge&logo="></a>
-
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/plug/main/1"><img title="YouTube" src="https://img.shields.io/badge/ 36 -green?style=for-the-badge&logo="></a>
