@@ -35,61 +35,36 @@
 <a href="https://github.com/Darken-Pasiya/Plugin/blob/main/README.md"><img title="YouTube" src="https://img.shields.io/badge/Logo-Plugin-ff69b4?style=for-the-badge&logo="></a>
 
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/plug/main/1"><img title="YouTube" src="https://img.shields.io/badge/ 1 -green?style=for-the-badge&logo="></a>
-
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/plug/main/1"><img title="YouTube" src="https://img.shields.io/badge/ 2 -green?style=for-the-badge&logo="></a>
-
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/plug/main/1"><img title="YouTube" src="https://img.shields.io/badge/ 3 -green?style=for-the-badge&logo="></a>
-
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/plug/main/1"><img title="YouTube" src="https://img.shields.io/badge/ 4 -green?style=for-the-badge&logo="></a>
-
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/plug/main/1"><img title="YouTube" src="https://img.shields.io/badge/ 5 -green?style=for-the-badge&logo="></a>
-
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/plug/main/1"><img title="YouTube" src="https://img.shields.io/badge/ 6 -green?style=for-the-badge&logo="></a>
-
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/plug/main/1"><img title="YouTube" src="https://img.shields.io/badge/ 7 -green?style=for-the-badge&logo="></a>
-
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/plug/main/1"><img title="YouTube" src="https://img.shields.io/badge/ 8 -green?style=for-the-badge&logo="></a>
-
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/plug/main/1"><img title="YouTube" src="https://img.shields.io/badge/ 9 -green?style=for-the-badge&logo="></a>
-
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/plug/main/1"><img title="YouTube" src="https://img.shields.io/badge/ 10 -green?style=for-the-badge&logo="></a>
-
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/plug/main/1"><img title="YouTube" src="https://img.shields.io/badge/ 11 -green?style=for-the-badge&logo="></a>
-
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/plug/main/1"><img title="YouTube" src="https://img.shields.io/badge/ 12 -green?style=for-the-badge&logo="></a>
-
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/plug/main/1"><img title="YouTube" src="https://img.shields.io/badge/ 13 -green?style=for-the-badge&logo="></a>
-
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/plug/main/1"><img title="YouTube" src="https://img.shields.io/badge/ 14 -green?style=for-the-badge&logo="></a>
-
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/plug/main/1"><img title="YouTube" src="https://img.shields.io/badge/ 15 -green?style=for-the-badge&logo="></a>
-
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/plug/main/1"><img title="YouTube" src="https://img.shields.io/badge/ 16 -green?style=for-the-badge&logo="></a>
-
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/plug/main/1"><img title="YouTube" src="https://img.shields.io/badge/ 17 -green?style=for-the-badge&logo="></a>
-
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/plug/main/1"><img title="YouTube" src="https://img.shields.io/badge/ 18 -green?style=for-the-badge&logo="></a>
-
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/plug/main/1"><img title="YouTube" src="https://img.shields.io/badge/ 19 -green?style=for-the-badge&logo="></a>
-
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/plug/main/1"><img title="YouTube" src="https://img.shields.io/badge/ 20 -green?style=for-the-badge&logo="></a>
-
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/plug/main/1"><img title="YouTube" src="https://img.shields.io/badge/ 21 -green?style=for-the-badge&logo="></a>
-
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/plug/main/1"><img title="YouTube" src="https://img.shields.io/badge/ 22 -green?style=for-the-badge&logo="></a>
-
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/plug/main/1"><img title="YouTube" src="https://img.shields.io/badge/ 23 -green?style=for-the-badge&logo="></a>
-
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/plug/main/1"><img title="YouTube" src="https://img.shields.io/badge/ 24 -green?style=for-the-badge&logo="></a>
-
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/plug/main/1"><img title="YouTube" src="https://img.shields.io/badge/ 25 -green?style=for-the-badge&logo="></a>
-
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/plug/main/1"><img title="YouTube" src="https://img.shields.io/badge/ 26 -green?style=for-the-badge&logo="></a>
-
+<br>
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/plug/main/1"><img title="YouTube" src="https://img.shields.io/badge/ 27 -green?style=for-the-badge&logo="></a>
-
+<br>
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/plug/main/1"><img title="YouTube" src="https://img.shields.io/badge/ 28 -green?style=for-the-badge&logo="></a>
-
+<br>
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/plug/main/1"><img title="YouTube" src="https://img.shields.io/badge/ 29 -green?style=for-the-badge&logo="></a>
 
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/plug/main/1"><img title="YouTube" src="https://img.shields.io/badge/ 30 -green?style=for-the-badge&logo="></a>
