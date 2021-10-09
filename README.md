@@ -33,3 +33,5 @@
 ## එහි ඇති ලින්ක් එක ඔබගේ බොට් හට ප්ලග් කරන්න.
 
 <a href="https://github.com/Darken-Pasiya/Plugin/blob/main/README.md"><img title="YouTube" src="https://img.shields.io/badge/Logo-Plugin-ff69b4?style=for-the-badge&logo="></a>
+
+<a href="https://raw.githubusercontent.com/Darken-Pasiya/plug/main/1"><img title="YouTube" src="https://img.shields.io/badge/1-yellow?style=for-the-badge&logo="></a>
