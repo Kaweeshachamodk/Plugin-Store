@@ -33,7 +33,7 @@
 ## එහි ඇති ලින්ක් එක ඔබගේ බොට් හට ප්ලග් කරන්න.
 <img src= "https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966"/>
 <br>
-<img src="https://readme-typing-svg.herokuapp.com/?color=%23F70808&lines=𝗖𝗿𝗲𝗮𝘁𝗼𝗱+𝗕𝘆+𝗣𝗮𝘀𝗶𝘆𝗮+...&font=Fira%20Code&center=true&width=250&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?color=%237C19F7&lines=𝗖𝗿𝗲𝗮𝘁𝗼𝗱+𝗕𝘆+𝗣𝗮𝘀𝗶𝘆𝗮+...&font=Fira%20Code&center=true&width=250&height=50">
 <img src= "https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966"/>
 
 <a href="https://github.com/Darken-Pasiya/Plugin-Store"><img title="YouTube" src="https://img.shields.io/badge/Logo-Plugin-ff69b4?style=for-the-badge&logo="></a>
@@ -78,7 +78,8 @@
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/plug/main/36"><img title="YouTube" src="https://img.shields.io/badge/ 36 -green?style=for-the-badge&logo="></a>
 <br>
 <img src= "https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966"/>
-
+<br>
+<img src="https://readme-typing-svg.herokuapp.com/?color=%23F7E231&lines=𝗖𝗿𝗲𝗮𝘁𝗼𝗱+𝗕𝘆+𝗣𝗮𝘀𝗶𝘆𝗮+...&font=Fira%20Code&center=true&width=250&height=50">
 <img src= "https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966"/>
 
 <a href="https://github.com/Darken-Pasiya/Plugin-Store"><img title="YouTube" src="https://img.shields.io/badge/Termux-Tool Plugin-blueviolet?style=for-the-badge&logo="></a>
@@ -120,7 +121,8 @@
 <br>
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/Termux-tool/main/Zphisher"><img title="YouTube" src="https://img.shields.io/badge/Zphisher-brightgreen?style=for-the-badge&logo="></a>
 <img src= "https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966"/>
-
+<br>
+<img src="https://readme-typing-svg.herokuapp.com/?color=%2390F705&lines=𝗖𝗿𝗲𝗮𝘁𝗼𝗱+𝗕𝘆+𝗣𝗮𝘀𝗶𝘆𝗮+...&font=Fira%20Code&center=true&width=250&height=50">
 <img src= "https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966"/>
 
 
@@ -129,7 +131,8 @@
 
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/any-plug/main/Whatsapp%20mod"><img title="YouTube" src="https://img.shields.io/badge/Click-lightgrey?style=for-the-badge&logo="></a>
 <img src= "https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966"/>
-
+<br>
+<img src="https://readme-typing-svg.herokuapp.com/?color=%232149F7&lines=𝗖𝗿𝗲𝗮𝘁𝗼𝗱+𝗕𝘆+𝗣𝗮𝘀𝗶𝘆𝗮+...&font=Fira%20Code&center=true&width=250&height=50">
 <img src= "https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966"/>
 
 <a href="https://github.com/Darken-Pasiya/Plugin-Store"><img title="YouTube" src="https://img.shields.io/badge/Read More-Plugin-red?style=for-the-badge&logo="></a>
@@ -140,6 +143,8 @@
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/any-plug/main/Read%20More/Private"><img title="YouTube" src="https://img.shields.io/badge/Private-2ea44f?style=for-the-badge&logo="></a>
 
 <img src= "https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966"/>
+<br>
+<img src="https://readme-typing-svg.herokuapp.com/?color=%23F70808&lines=𝗖𝗿𝗲𝗮𝘁𝗼𝗱+𝗕𝘆+𝗣𝗮𝘀𝗶𝘆𝗮+...&font=Fira%20Code&center=true&width=250&height=50">
 <img src= "https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966"/>
 
 <a href="https://github.com/Darken-Pasiya/Plugin-Store"><img title="YouTube" src="https://img.shields.io/badge/Anti Spam-Plugin-9cf?style=for-the-badge&logo="></a>
@@ -147,6 +152,8 @@
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/any-plug/main/Anti%20spam"><img title="YouTube" src="https://img.shields.io/badge/Click-lightgray?style=for-the-badge&logo="></a>
 
 <img src= "https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966"/>
+<br>
+<img src="https://readme-typing-svg.herokuapp.com/?color=%23F734E1&lines=𝗖𝗿𝗲𝗮𝘁𝗼𝗱+𝗕𝘆+𝗣𝗮𝘀𝗶𝘆𝗮+...&font=Fira%20Code&center=true&width=250&height=50">
 <img src= "https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966"/>
 
 <a href="https://github.com/Darken-Pasiya/Plugin-Store"><img title="YouTube" src="https://img.shields.io/badge/Get Admin-Plugin-darkblue?style=for-the-badge&logo="></a>
@@ -166,6 +173,8 @@
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/any-plug/main/Get%20Admin/Amdi"><img title="YouTube" src="https://img.shields.io/badge/Amdi , Trex-ff69b4?style=for-the-badge&logo="></a>
 
 <img src= "https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966"/>
+<br>
+<img src="https://readme-typing-svg.herokuapp.com/?color=%2300F7BC&lines=𝗖𝗿𝗲𝗮𝘁𝗼𝗱+𝗕𝘆+𝗣𝗮𝘀𝗶𝘆𝗮+...&font=Fira%20Code&center=true&width=250&height=50">
 <img src= "https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966"/>
 
 <a href="https://github.com/Darken-Pasiya/Plugin-Store"><img title="YouTube" src="https://img.shields.io/badge/Bug & Spam-Plugin-black?style=for-the-badge&logo="></a>
@@ -180,6 +189,8 @@
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/any-plug/main/Bug/Bug%20special"><img title="YouTube" src="https://img.shields.io/badge/Bug & Spam-blueviolet?style=for-the-badge&logo="></a>
 
 <img src= "https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966"/>
+<br>
+<img src="https://readme-typing-svg.herokuapp.com/?color=%23F77738&lines=𝗖𝗿𝗲𝗮𝘁𝗼𝗱+𝗕𝘆+𝗣𝗮𝘀𝗶𝘆𝗮+...&font=Fira%20Code&center=true&width=250&height=50">
 <img src= "https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966"/>
 
 ## අලුතෙන් ප්ලගින් එකක් දාපු ගමන් බලාගන්න follow පාරක් දාගෙන යන්න 😙
