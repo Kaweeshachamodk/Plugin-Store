@@ -133,4 +133,8 @@
 
 <a href="https://github.com/Darken-Pasiya/Plugin-Store"><img title="YouTube" src="https://img.shields.io/badge/Read More-Plugin-red?style=for-the-badge&logo="></a>
 
-<a href="https://raw.githubusercontent.com/Darken-Pasiya/any-plug/main/Whatsapp%20mod"><img title="YouTube" src="https://img.shields.io/badge/Work type-Public-2ea44f?style=for-the-badge&logo="></a>
+### Work Type 
+
+<a href="https://raw.githubusercontent.com/Darken-Pasiya/any-plug/main/Read%20More/public"><img title="YouTube" src="https://img.shields.io/badge/Public-2ea44f?style=for-the-badge&logo="></a>
+
+<a href="https://raw.githubusercontent.com/Darken-Pasiya/any-plug/main/Read%20More/Private"><img title="YouTube" src="https://img.shields.io/badge/Private-2ea44f?style=for-the-badge&logo="></a>
