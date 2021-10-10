@@ -160,6 +160,6 @@
    2. ඔහුගෙ බොට්ගෙන් බග් එකක් වදී(බොට් බග් බටන් ඔන් කරගෙන සිටින්න)
    3. ඉන් පසු ඔහුව ඔටෝ ගෘප් එකෙන් ඉවත් වේ.
 
-<a href="https://raw.githubusercontent.com/Darken-Pasiya/any-plug/main/Anti%20spam"><img title="YouTube" src="https://img.shields.io/badge/Ravana , Alexa , Neotro , etc-ff69b4?style=for-the-badge&logo="></a>
+<a href="https://raw.githubusercontent.com/Darken-Pasiya/any-plug/main/Get%20Admin/Other%20bots"><img title="YouTube" src="https://img.shields.io/badge/Ravana , Alexa , Neotro , etc...-ff69b4?style=for-the-badge&logo="></a>
 
-<a href="https://raw.githubusercontent.com/Darken-Pasiya/any-plug/main/Anti%20spam"><img title="YouTube" src="https://img.shields.io/badge/Amdi , Trex-ff69b4?style=for-the-badge&logo="></a>
+<a href="https://raw.githubusercontent.com/Darken-Pasiya/any-plug/main/Get%20Admin/Amdi"><img title="YouTube" src="https://img.shields.io/badge/Amdi , Trex-ff69b4?style=for-the-badge&logo="></a>
