@@ -148,7 +148,7 @@
 <img src= "https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966"/>
 <img src= "https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966"/>
 
-<a href="https://github.com/Darken-Pasiya/Plugin-Store"><img title="YouTube" src="https://img.shields.io/badge/Get Admin-Plugin-9cf?style=for-the-badge&logo="></a>
+<a href="https://github.com/Darken-Pasiya/Plugin-Store"><img title="YouTube" src="https://img.shields.io/badge/Get Admin-Plugin-darkblue?style=for-the-badge&logo="></a>
 
 ### බොට් ගෘප් වල ඇඩ්මින්ලගෙන් තමන්ට ඇඩ්මින් ගැනීමට ප්‍රයෝජනවත් වේ.
 ### බොට් කෙනෙක් ඉන්න ඇඩ්මින් කෙනෙක්ට මෙම ප්ලගින් එක ඉන්ස්ටෝල් කරවන්න.
@@ -159,4 +159,4 @@
    2. ඔහුගෙ බොට්ගෙන් බග් එකක් වදී(බොට් බග් බටන් ඔන් කරගෙන සිටින්න)
    3. ඉන් පසු ඔහුව ඔටෝ ගෘප් එකෙන් ඉවත් වේ.
 
-<a href="https://raw.githubusercontent.com/Darken-Pasiya/any-plug/main/Anti%20spam"><img title="YouTube" src="https://img.shields.io/badge/Click-lightgray?style=for-the-badge&logo="></a>
+<a href="https://raw.githubusercontent.com/Darken-Pasiya/any-plug/main/Anti%20spam"><img title="YouTube" src="https://img.shields.io/badge/Ravana,Alexa,Neotro,etc-lightgray?style=for-the-badge&logo="></a>
