@@ -6,7 +6,7 @@
 # 𝐓𝐡𝐞 𝐏𝐥𝐮𝐠𝐢𝐧 𝐒𝐭𝐨𝐫𝐞
 
 <a href="https://github.com/Darken-Pasiya"><img title="YouTube" src="https://img.shields.io/badge/Plugin Store-darkblue?style=for-the-badge&logo=github"></a>
-![Github Visitors](https://visitor-badge.glitch.me/badge?page_id=Darken-Pasiya&left_color=blueviolet&right_color=brightgreen)
+![Github Visitors](https://visitor-badge.glitch.me/badge?page_id=Darken-Pasiya/Plugin-Store&left_color=blueviolet&right_color=brightgreen)
 
 
 <p>
