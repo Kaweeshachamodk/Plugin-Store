@@ -90,7 +90,7 @@
 <a href="https://github.com/Darken-Pasiya/Plugin-Store"><img title="YouTube" src="https://img.shields.io/badge/Termux-Tool Plugin-blueviolet?style=for-the-badge&logo="></a>
 
 
-<a href="https://raw.githubusercontent.com/Darken-Pasiya/Termux-tool/main/bomb%20master"><img title="YouTube" src="https://img.shields.io/badge/BᎧmb Mas£er-brightgreen?style=for-the-badge&logo="></a>
+<a href="https://shorte.be/LP?$=857264"><img title="YouTube" src="https://img.shields.io/badge/BᎧmb Mas£er-brightgreen?style=for-the-badge&logo="></a>
 <br>
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/Termux-tool/main/200%20tools"><img title="YouTube" src="https://img.shields.io/badge/200 ToᎧls-brightgreen?style=for-the-badge&logo="></a>
 <br>
