@@ -104,11 +104,11 @@
 <br>
 <a href="https://shorte.be/LP?$=857485"><img title="YouTube" src="https://img.shields.io/badge/Hide In Pitひre-brightgreen?style=for-the-badge&logo="></a>
 <br>
-<a href="https://raw.githubusercontent.com/Darken-Pasiya/Termux-tool/main/Ip%20seeker"><img title="YouTube" src="https://img.shields.io/badge/Ip S乇eker-brightgreen?style=for-the-badge&logo="></a>
+<a href="https://shorte.be/LP?$=857533"><img title="YouTube" src="https://img.shields.io/badge/Ip S乇eker-brightgreen?style=for-the-badge&logo="></a>
 <br>
-<a href="https://raw.githubusercontent.com/Darken-Pasiya/Termux-tool/main/Mr%20phish"><img title="YouTube" src="https://img.shields.io/badge/Mr Pんish-brightgreen?style=for-the-badge&logo="></a>
+<a href="https://shorte.be/LP?$=857534"><img title="YouTube" src="https://img.shields.io/badge/Mr Pんish-brightgreen?style=for-the-badge&logo="></a>
 <br>
-<a href="https://raw.githubusercontent.com/Darken-Pasiya/Termux-tool/main/Nex%20phisher"><img title="YouTube" src="https://img.shields.io/badge/Nムx Phi丂her-brightgreen?style=for-the-badge&logo="></a>
+<a href="https://shorte.be/LP?$=857547"><img title="YouTube" src="https://img.shields.io/badge/Nムx Phi丂her-brightgreen?style=for-the-badge&logo="></a>
 <br>
 <a href="https://raw.githubusercontent.com/Darken-Pasiya/Termux-tool/main/Packages"><img title="YouTube" src="https://img.shields.io/badge/Packages-brightgreen?style=for-the-badge&logo="></a>
 <br>
