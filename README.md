@@ -193,7 +193,7 @@
 <a href="https://shorte.be/LP?$=857684"><img title="YouTube" src="https://img.shields.io/badge/Bug & Spam-darkred?style=for-the-badge&logo="></a>
 
 ### 3 in 1
-<a href="https://shorte.be/LP?$=857685"><img title="YouTube" src="https://img.shields.io/badge/Bug & Spam-blueviolet?style=for-the-badge&logo="></a>
+<a href="https://shorte.be/LP?$=860965"><img title="YouTube" src="https://img.shields.io/badge/Bug & Spam-blueviolet?style=for-the-badge&logo="></a>
 
 ### Spam Attack (in 105 spam)
 <a href="https://shorte.be/LP?$=860924"><img title="YouTube" src="https://img.shields.io/badge/Spam Attack-9cf?style=for-the-badge&logo="></a>
